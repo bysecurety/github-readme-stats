@@ -444,6 +444,12 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+  vibrant_gradient: {
+    title_color: "e03c8a",
+    icon_color: "00AEFF",
+    text_color: "bcb28d",
+    bg_color: "radial-gradient(50%,50%,50%, 20% blue, 35% red, 55% blue, 75% red, 1 lightblue)",
+  },
 };
 
 export default themes;
